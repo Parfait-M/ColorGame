@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Color Guessing Game</string>
+    <string name="filename">scores.dat </string>
+    <string name="chooseColor">Choose a Color</string>
+    <string name="info_text">This app was made in honor of the first game I created as a developer.
+        Just like the name implies, it is a guessing game where you have to guess the color chosen
+        by the app.\n\n\nCreated by Parfait Mwamba in 2017.\n\nFeel free to check out my other (future) apps!
+        \n\nparfait.dev@gmail.com
+    </string>
+    <string name="instruct_title">How to Play Color Guess</string>
+    <string name="instructions">
+        This is very simple.\n\nIn order to begin a game, you must select either New Game or Continue
+        from the main page.\n\nThis will take you to the game page where you will be prompted to "Choose a color".
+        That color represents a guess that you will be making.\n\nYou have 3 tries for every life.
+        This is a game between the program and yourself.\n\nTry to be Victorious!
+    </string>
+</resources>
